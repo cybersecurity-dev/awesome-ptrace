@@ -5,6 +5,9 @@
 </p>
 
 # Awesome [Ptrace](https://linux.die.net/man/2/ptrace) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/debugging/new/)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://elixir.bootlin.com/linux/v6.17/source)
+ 
 [Ptrace](https://man7.org/linux/man-pages/man2/ptrace.2.html) (an abbreviation of "[process trace](https://elixir.bootlin.com/linux/v6.17/source/kernel/ptrace.c)") is a system call found in Unix and several Unix-like operating systems.
 <p align="center">
     <a href="https://github.com/cybersecurity-dev/"><img height="25" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/github.svg" alt="GitHub"></a>
