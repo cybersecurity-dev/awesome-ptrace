@@ -9,7 +9,7 @@
 </div>
 
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://elixir.bootlin.com/linux/v6.17/source)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)]()
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/playlist?list=PLXzEpUaBwViM&si=KdnyovSdGhLsC2ri)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/debugging/new/)
 
 [Ptrace](https://man7.org/linux/man-pages/man2/ptrace.2.html) (an abbreviation of "[process trace](https://elixir.bootlin.com/linux/v6.17/source/kernel/ptrace.c)") is a system call found in Unix and several Unix-like operating systems.
